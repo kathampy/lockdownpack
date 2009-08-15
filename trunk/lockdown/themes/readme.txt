@@ -1,0 +1,1 @@
+To install a theme, rename it to "lockdown.thm" and put it in flash0:

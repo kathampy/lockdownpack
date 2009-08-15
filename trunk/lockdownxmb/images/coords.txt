@@ -1,0 +1,14 @@
+background.png			0 0 1 1
+buttons.png			57 65 366 128
+footer_changemode.png		25 229 209 20
+footer_pressselect.png		25 229 299 20
+mask.png			25 65 40 35
+msg_notmatch.png		25 139 379 30
+msg_passwordchanged.png		25 139 281 30
+msg_passwordincorrect.png	25 139 303 30
+msg_passwordok.png		25 139 197 30
+title_confirmpassword.png	25 23 273 31
+title_newpassword.png		25 23 316 31
+title_oldpassword.png		25 23 298 31
+title_password.png		25 23 245 31
+title_requirepassword.png	25 23 269 31
