@@ -1,0 +1,21 @@
+==========================================
+Lockdown Pack 2 Changelog
+==========================================
+
+Lockdown XMB Style updated to v4.1
+------------------------------------------
+Fixed a critical bug where a new installation of Lockdown XMB Style would hang after entering a new password for the first time.
+
+Lockdown unchanged at v4.0
+Lockdown In-Game unchanged at v2.0
+
+==========================================
+Lockdown Pack 1 Changelog
+==========================================
+
+Lockdown updated to v4.0 & Lockdown XMB Style updated to v4.0
+------------------------------------------
+Enhanced security. Plugins cannot be used to bypass the password.
+If you enter Password Change Mode, you can press Select again to exit without entering a new password.
+
+Lockdown In-Game unchanged at v2.0
