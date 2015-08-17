@@ -8,7 +8,7 @@ You can also protect the Recovery Menu so that the protection can't be bypassed 
 ------------------------------------------
 Credits
 ------------------------------------------
-Big time thanks to Dark_Alex for his VLF library, without which Lockdown XMB Style would have been impossible. Also thanks for adding the Plugins Disable feature in 5.00M33-2
+Thanks to Dark_Alex for his VLF library, without which Lockdown XMB Style would have been impossible, and also for adding the Plugins Disable feature in 5.00M33-2
 
 
 ------------------------------------------
