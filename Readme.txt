@@ -29,13 +29,13 @@ Installation
 
 First of all make sure you have enough space in flash0: to install all the files.
 
-1. Open flash0 via USB. Paste the following files in flash0:
+1. Open flash0: via USB. Paste the following files in flash0:
 
    lockdown.thm
    loader.prx
 
 
-   For Lockdown XMB Style on the Slim Only also paste the following files in flash0:
+   For Lockdown XMB Style on the Slim only, also paste the following files in flash0:
 
    vlf.prx
    iop.prx
@@ -63,7 +63,7 @@ If you create a blank file in flash0: called "loadplugins.txt" then Lockdown wil
 
 There is a small problem with having Lockdown load the plugins though. Some plugins which hook functions by waiting for the target firmware module to start may not work, because the module would have already been started before Lockdown loads the plugin. Such plugins have to be manually installed in the pspbt*nf.bin files before the modules they try to hook are loaded.
 
-If you are not using the Disable XMB Plugins options, then there is no problem.
+If you are not using the Disable XMB Plugins options, there is no problem.
 
 
 ------------------------------------------
